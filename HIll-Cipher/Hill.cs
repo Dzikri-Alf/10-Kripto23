@@ -1,5 +1,5 @@
 using System;
-//test
+
 namespace MyApplication
 {
   class Hill
